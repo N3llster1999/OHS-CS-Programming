@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<head>
+    <title>OHS → Student Entries</title>
+    <link rel="stylesheet" type="text/css" href="Student_Entries.css">
+    <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'> <!--Fonts for H4-->
+    <link href='https://fonts.googleapis.com/css?family=Candal' rel='stylesheet' type='text/css'> <!--Fonts for H1-->
+    <link href='https://fonts.googleapis.com/css?family=Exo:800' rel='stylesheet' type='text/css'> <!--Fonts for H2-->
+    <link href='https://fonts.googleapis.com/css?family=Slabo+27px' rel='stylesheet' type='text/css'> <!--Fonts for P-->
+    
+</head>
+
+<body>
+  <header>
+    <img src="https://cdn2.iconfinder.com/data/icons/luchesa-part-3/128/Programming-512.png" width="200px" alt="Karel the Dog, from CodeHS">
+    <h1 id="CS-head">Computer Science & Programming</h1>
+    <h4><i>taught by Mr. Hooman Behzadpour (AP Calculus & AP Computer Science/Programming teacher)</i></h4>
+
+    <ul>
+      <li><a href="index.html" title="Go back to homepage">Home</a></li>
+      <li><a href="Student_Entries.html" title="You're already here!">Students Entries</a></li>
+    </ul>
+
+  </header>
+  
+    <p>The students are color coded by grade, as cited below:</p>
+      <h3 class="Sophomore"><b>Sophomores</b></h3>
+      <h3 class="Junior"><b>Juniors</b></h3>
+      <h3 class="Senior"><b>Seniors</b></h3>
+      
+    <p>*Student advancing to AP Computer Science next year*</p>
+    
+    <p id="note-to-reader"><span id="red-head"><b><u>NOTE TO AUDIENCE</u>:</b></span> <br>IN ORDER TO START EACH GAME OR <b>PROGRAM</b>, PRESS THE GREEN "<b>RUN CODE</b>" BUTTON ABOVE THE CANVAS OR CONSOLE. THE <b>CONSOLE</b> IS THE BOX THAT DISPLAYS TEXT AND THE <b>CANVAS</b> IS THE BOX THAT DISPLAYS GRAPHICS AND ANIMATIONS. IF THE PROGRAM INCLUDES BOTH, THE CONSOLE WITH APPEAR AT THE BOTTOM. TO <b>RESTART</b> THE PROGRAM, HIT "RUN CODE" AGAIN. IF THE PROGRAM FREEZES, <b>RELOAD</b> THE <i>BROWSER</i> PAGE.</p>
+    
+    <p>Roll over each link to see a description, if applicable.</p>
+  <h2><u>Intro to Programming 2A</u></h2>
+    <h3 class="Junior">Sabina Nelson</h3>
+      <a href="https://codehs.com/share/If5SiA3sdFzZyZBlVXQX" target="_blank" alt="When you hit run the code will move and create a lines of the path the ball went through." title="When you hit run the code will move and create a lines of the path the ball went through.">Trail</a><br>
+      <a href="https://codehs.com/share/xiFUbu1tCJhPsdh9IMoN" target="_blank" alt="This is a program that users timers to simulate a “crazy” ball. What this means is that every 100 milliseconds, the ball should change its position to a random location on the screen." title="This is a program that users timers to simulate a “crazy” ball. What this means is that every 100 milliseconds, the ball should change its position to a random location on the screen.">Crazy Ball</a><br>
+
+    <h3 class="Junior">Valini Lee</h3>
+      <a href="https://codehs.com/share/bx10CdFMKwPfzl6JU3g6" target="_blank" alt="A close up of a martini and an olive." title="A close up of a martini and an olive.">Martini</a><br>
+
+    <h3 class="Junior">Alande Philemon</h3>
+      <a href="https://codehs.com/share/yjNzOt5s5gF50vI9DlwB" target="_blank" alt="This is a link of a problem we did in class that you click run code a circle in a rectangle." title="This is a link of a problem we did in class that you click run code a circle in a rectangle.">Rectangles in Squares</a><br>
+
+    <h3 class="Senior">Rachelle Exantus</h3>
+      <a href="https://codehs.com/share/O8Jqzuo55N2okf2jgnKC" target="_blank" alt="A colorful line spinning making a circle" title="A colorful line spinning making a circle">Spinner</a><br>
+      <a href="https://codehs.com/share/cFXwfEn0AQIe9qCUqN9S" target="_blank" alt="Click the circle to make background change colors and click background to make circle go faster." title="Click the circle to make background change colors and click background to make circle go faster.">Bouncing Ball Game</a><br>
+
+    <h3 class="Junior">*Ernest Bynum*</h3>
+      <a href="https://codehs.com/share/uiztDhsl4U5h47Fq1nyU" target="_blank" alt="When you click down on the mouse a tree will appear when you click up a flower will appear." title="When you click down on the mouse a tree will appear when you click up a flower will appear.">Clicking Tree into Flower</a><br>
+
+    <h3 class="Senior">Kyla Nesbitt</h3>
+      <a href="https://codehs.com/share/Dz8YWxEwSjknWPJn3xMP" target="_blank" alt="Every time you click a new and different color circle should appear." title="Every time you click a new and different color circle should appear.">Clicking Bubbles</a><br>
+      <a href="https://codehs.com/share/Ru5yv1wgo1k7mJ43Vh2b" target="_blank" alt="This game is called Breakout. You have to move the bar at the bottom of the screen to hit the ball so it can break the bricks." title="This game is called Breakout. You have to move the bar at the bottom of the screen to hit the ball so it can break the bricks."><span class="Actual_Game">Breakout</span></a><br>
+
+    <h3 class="Junior">*Medi Assumani*</h3>
+      <a href="https://codehs.com/share/vc0gzLmqDFocHW6c3xt6" target="_blank" alt="This is a small version of a simple calculator with only four operations : addition, subtraction, multiplication, and  division." title="This is a small version of a simple calculator with only four operations : addition, subtraction, multiplication, and  division.">Simple Calculator</a><br>
+        <!--Have Medi fix this calculator. Subtraction gives a sum instead of a difference.-->
+
+    <h3 class="Senior">Brandon Grant</h3>
+      <a href="https://codehs.com/share/PsAIlAgwvP35yXflGTr3" target="_blank" alt="the first link you have to hit all the rectangle to win." title="the first link you have to hit all the rectangle to win."><span class="Actual_Game">Simple Breakout</span></a><br>
+
+    <h3 class="Senior">Valdo Marcelin</h3>
+      <a href="https://codehs.com/share/Xuovx0yj4HdQBda8c0aX" target="_blank" alt="No description available" title="No description available"><span class="Actual_Game">Tic-Tac-Toe</span></a><br>
+
+    <h3 class="Senior">Tyree Ward-May</h3>
+      <a href="https://codehs.com/share/yWhkoHwxYRP4rY56N9Gc" target="_blank" alt="No description available" title="No description available">Racing Karel</a><br>
+
+    <h3 class="Junior">Victoria Charles</h3>
+      <a href="https://codehs.com/share/qwf8AWU7mPZIc3dNuvSj" target="_blank" alt="Hit Trump is a game where you need to tap the image before it moves if you miss the game will gradually speed up till it’s practically impossible(same for the other game)" title="Hit Trump is a game where you need to tap the image before it moves if you miss the game will gradually speed up till it’s practically impossible(same for the other game)"><span class="Actual_Game">Punch Donald Trump</span></a><br>
+
+    <h3 class="Sophomore">Jabril Moses</h3>
+      <a href="https://codehs.com/share/iaPCb5KkMKBveZ7edVFb" target="_blank" alt="No description available" title="No description available">Bubbles</a><br>
+      <a href="https://codehs.com/share/Ju26mQEFjpej2quNlXuF" target="_blank" alt="No description available" title="No description available">Badge</a><br>
+
+  <h2><u>Intro to Programming 3B</u></h2>
+    <h3 class="Senior">Melkamu Habacho</h3>
+      <a href="https://codehs.com/share/pM1ac3iYb00q7bRCtskT" target="_blank" alt="No description available" title="No description available"><span class="Actual_Game">Bouncing Game</span></a><br>
+      <a href="https://codehs.com/share/kEmSe70DOXz2QZlAa9Rk" target="_blank" alt="No description available" title="No description available">Spinning Wheel</a><br>
+
+    <h3 class="Senior">Ralph Clement</h3>
+      <a href="https://codehs.com/share/nMtHsLMr6Ejf2gqRhJtW" target="_blank" alt="Custom creation of robot" title="Custom creation of robot">Robot!</a><br>
+
+    <h3 class="Senior">Emmanuel Adomako</h3>
+      <a href="https://codehs.com/share/T8QU1yJG3IJ8gKARmMrl" target="_blank" alt="No description available" title="No description available">Fast Spinner</a><br>
+
+    <h3 class="Senior">Cathelyne Etienne</h3>
+      <a href="https://codehs.com/share/os78hMs6agQ9vhZ1rZsr" target="_blank" alt="No description available" title="No description available">Lots of Circles</a><br>
+
+    <h3 class="Senior">Lounie Germain</h3>
+      <a href="https://codehs.com/share/98msvC5uNPi0xLNAAl4C" target="_blank" alt="This is CODE HS written using different shapes such as circles, rectangles, etc." title="This is CODE HS written using different shapes such as circles, rectangles, etc.">CodeHS</a><br>
+
+    <h3 class="Senior">Edwin Dominguez</h3>
+      <a href="https://codehs.com/share/WQKE1LCyBIKVy3fA08WT" target="_blank" alt="No description available" title="No description available"><i>Perfect American flag</i></a><br>
+      <a href="https://codehs.com/share/mG0enJBdA01SOSBBJ6ro" target="_blank" alt="This program displays 9 circles and changes their color every 100 milliseconds." title="This program displays 9 circles and changes their color every 100 milliseconds.">Blinking Circles</a><br>
+
+    <h3 class="Junior">Yasmine Cole</h3>
+      <a href="https://codehs.com/share/dLJvAj7zZC57or5oWihQ" target="_blank" alt="No description available" title="This programs creates random circles with varying radii, positions, and colors.">Circles and Circles</a><br>
+      <a href="https://codehs.com/share/1EGN0VzXN5sPSfy4QEmm" target="_blank" alt="No description available" title="No description available">Cat Rotating</a><br>
+
+    <h3 class="Senior">Tyrel Edwards</h3>
+      <a href="https://codehs.com/share/5lvvCSJ2lC0qqTUKkpGL" target="_blank" alt="This is a racing program between two objects" title="This is a racing program between two objects">Ball Race</a><br>
+      <a href="https://codehs.com/share/XtHRWhUO881utkx204Cm" target="_blank" alt="Custom creation of robot" title="Custom creation of robot">Robot!</a><br>
+
+    <h3 class="Junior">*Rahnell Smith*</h3>
+      <a href="https://codehs.com/share/MvlDKu0XbJFlritxe7AH" target="_blank" alt="This program is a modification of the original 'Breakout,' from the Atari video game system. The rules appear in the console under the canvas when you click, 'RUN CODE'." title="This program is a modification of the original 'Breakout,' from the Atari video game system. The rules appear in the console under the canvas when you click, 'RUN CODE'."><span class="Actual_Game">Breakout</span></a><br>
+      <a href="https://codehs.com/share/JEwPqCfqyEfZ5ulixCaE" target="_blank" alt="This program is a DEMO of the program we are currently creating of 'Helicopter.' It's like the app, 'Flappy Bird' or 'Jetpack Joyride.' The rules appear in the console under the canvas when you click, 'RUN CODE'." title="This program is a DEMO of the program we are currently creating of 'Helicopter.' It's like the app, 'Flappy Bird' or 'Jetpack Joyride.' The rules appear in the console under the canvas when you click, 'RUN CODE'."><span class="Actual_Game">Helicopter</span></a><br>
+      <a href="https://codehs.com/share/pBuu5IoyUUcvbWYeTWO1" target="_blank" alt="In this program, the objective is to pop all the balloons as fast as you can. Your time appears at the bottom left." title="In this program, the objective is to pop all the balloons as fast as you can. Your time appears at the bottom left."><span class="Actual_Game">Balloon Pop!</span></a><br>
+      
+
+  
+  <script>
+    alert("Hello World :)");
+    alert("Actual games that you can play are shown in a link with a bigger font size. :)");
+  </script>
+
+</body>
