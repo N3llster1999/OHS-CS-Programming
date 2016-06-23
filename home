@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<head>
+    <title>OHS CS & Programming</title>
+    <link rel="stylesheet" type="text/css" href="index.css">
+    <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'> <!--Fonts for H4-->
+    <link href='https://fonts.googleapis.com/css?family=Candal' rel='stylesheet' type='text/css'> <!--Fonts for H1-->
+    <link href='https://fonts.googleapis.com/css?family=Exo:800' rel='stylesheet' type='text/css'> <!--Fonts for H2-->
+    <link href='https://fonts.googleapis.com/css?family=Slabo+27px' rel='stylesheet' type='text/css'> <!--Fonts for P-->
+    
+</head>
+
+<body>
+  <header>
+    <img src="https://cdn2.iconfinder.com/data/icons/luchesa-part-3/128/Programming-512.png" width="200px" alt="Karel the Dog, from CodeHS">
+    <h1 span="CS-head">Computer Science & Programming</h1>
+    <h4><i>taught by Mr. Hooman Behzadpour (AP Calculus & AP Computer Science/Programming teacher)</i></h4>
+
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="Student_Entries.html">Students Entries</a></li>
+    </ul>
+
+  </header>
+  
+  <article>
+    <h2>What are Computer Science & Programming about?</h2>
+    <p>Computer Science is the study of how we use computers to make our lives easier. Computers aren't just those sitting on your desk, but they're laptops, mobile phones, tablets, televisions, etc. All of these inventions improved the lives of people around the world. Programming is how we write the set of directions a computer follows in order to make it work as it does. These skills are needed when you're finished with your education no matter what job you have. This is why the district requires most of us to participate in the annual Hour of Code during our computer classes.</p>
+  </article>
+  
+  <article>
+    <h2>What is Introduction to Programming?</h2>
+        <p> Programming is a <span class="big-words">STEM</span> course, which aims at exposing students to the world of coding. There are thousands of programming languages and they’re used in <b>every</b> career and aspect of life and technology. As we get closer to our lives after high school, having knowledge of <span class="big-words">Computer Science</span> will become extremely important to our economy. <span class="big-words"><b>CS skills are for every career</b></span>. This course is intended for students with no previous background, and teaches how to code in a <span class="big-words"><u>fun and accessible</u></span> way. Taught in JavaScript, the class equips students with the programming fundamentals to learn <span class="big-words">ANY</span> programming language. The course focuses on the <span class="big-words">problem solving and critical thinking skills</span> required to properly code, skills that will benefit students in all of their future endeavors. Those who have ambitious goals in technology and CS are encouraged to join. After completion of the course, students will know JavaScript and have the programming experience and problem solving know how to pick up any programming language, whether it's Objective C, Ruby, Python, Java, C, C++, or anything else.</p>
+        <p><br>We use the website, <a href="https://codehs.com/" target="_blank">CodeHS</a> to learn how to code. If you would like to try at home, you can get a trial.</p>
+  </article>
+
+  <article>
+    <h2><u>Computer Science & Programming Track</u></h2>
+    <p><b>YEAR 1:</b> Introduction to Programming (JavaScript)<br> ↓ <br> <b>YEAR 2:</b> AP Computer Science Principles (*NEW - BEGINNING NEXT YEAR) <br> ↓ <br> <i>Possible YEAR 3:</i> AP Computer Science A (<u>NOT AVAILABLE YET</u>)</p>
+  </article>
+  
+  <script>
+    $("button").on("click", function() {
+      alert("Clicked!");
+    });
+  </script>
+</body>
